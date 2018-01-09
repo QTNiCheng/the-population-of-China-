@@ -1,0 +1,1139 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="fu10.files/filelist.xml">
+<title>第六次全国人口普查长表抽样工作细则</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="chsdate" downloadurl=""/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>yh</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>yh</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2012-04-27T00:27:00Z</o:Created>
+  <o:LastSaved>2012-04-27T00:27:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>558</o:Words>
+  <o:Characters>3185</o:Characters>
+  <o:Lines>26</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3736</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:汉仪中黑简;
+	panose-1:2 1 6 4 0 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135137280 18 0 262144 0;}
+@font-face
+	{font-family:汉仪书宋一简;
+	panose-1:2 1 6 4 0 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135137280 18 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@汉仪书宋一简";
+	panose-1:2 1 6 4 0 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135137280 18 0 262144 0;}
+@font-face
+	{font-family:"\@汉仪中黑简";
+	panose-1:2 1 6 4 0 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135137280 18 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:125%'><span
+style='font-size:18.0pt;line-height:125%;font-family:汉仪中黑简;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>第六次全国<span class=GramE>人口普查长表抽样</span>工作细则<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;line-height:125%'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:125%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;line-height:125%'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:125%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>一、根据《第六次全国人口普查方案》，制定本细则。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>二、普查<span class=GramE>表长表</span>抽样工作由国务院人口普查办公室统一部署，普查<span
+class=GramE>表长表</span>抽样方法由国务院人口普查办公室设计，各省级人口普查办公室负责培训指导，各乡级人口普查办公室负责组织各村级人口普查小组实施。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>三、各省、自治区、直辖市按</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>％的抽样比例，在每个普查小区中，抽取<span class=GramE>长表调查</span>住户组。每个住户组由相邻的</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户组成。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>四、<span class=GramE>长表调查</span>户的抽样工作在《户主姓名底册》编制工作完成后，从</span><st1:chsdate
+Year="2010" Month="10" Day="29" IsLunarDate="False" IsROCDate="False" w:st="on"><span
+ lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+ 汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>2010</span><span
+ style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+ mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+ bold'>年</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+ 200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+ bold'>10</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+ font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+ 0pt;mso-bidi-font-weight:bold'>月</span><span lang=EN-US style='mso-bidi-font-size:
+ 10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+ mso-bidi-font-weight:bold'>29</span><span style='mso-bidi-font-size:10.5pt;
+ line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+ mso-font-kerning:0pt;mso-bidi-font-weight:bold'>日</span></st1:chsdate><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>开始，到</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>31</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>日结束。</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>五、《户主姓名底册》是<span class=GramE>长表调查</span>户的抽样框。<span
+class=GramE>长表调查</span>户要在《户主姓名底册》中的“户编号”上进行抽取。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>六、<span class=GramE>长表调查</span>户抽样框包括居住在本地的家庭户和集体户，也包括离开本地不满半年的家庭户。不包括：全户为港澳台或外籍人员的户；全<span
+class=GramE>户寄挂户口</span>的户；全户外出半年以上的户；全<span class=GramE>户死亡</span>的户；因房屋拆迁或搬家已离开本地的户；无人居住且<span
+class=GramE>未寄挂户口</span>的空房户。<span class=GramE>长表调查</span>户抽样框不包括的户不<span
+class=GramE>参与长表抽样</span>。</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>七、在抽取<span class=GramE>长表调查</span>户前，普查指导员要组织普查员对《户主姓名底册》进行核查。核查的内容有：</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（一）《普查小区图》中的建筑物，是否列入《户主姓名底册》，并有相应的“建筑物编号”；建筑物内每户的住房单元是否列入《户主姓名底册》，并给予相应的“房屋编号”。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（二）集体户是否按住房单元划分为各个集体户，并给予相应的“房屋编号”。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（三）《户主姓名底册》上的“户编号”是否与<span class=GramE>参加长表抽样</span>的户一一对应，即一个户只能有一个“户编号”与其对应（假如一个单元房内有几户，这几户的“房屋编号”是相同的，但“户编号”应是不同的）。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（四）《户主姓名底册》上的空房户是否用横线划去，不<span class=GramE>参与长表抽样</span>的户是否已给出</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>600</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>以上的“户编号”。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（五）《户主姓名底册》上的“户编号”（除</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>600</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>以上）是否从</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>001</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>开始连续升序编写，如不是要核对检查，及时改正。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>八、由乡级人口普查办公室统一组织各普查区的指导员，在每个普查小区的《户主姓名底册》的“户编号”上随机等距抽取<span
+class=GramE>长表调查</span>住户组。抽取方法见附件（第六次全国人口普查<span class=GramE>长表调查</span>户抽取方法）。被抽中的<span
+class=GramE>长表调查</span>户应在《户主姓名底册》上的“户编号”前有明显的标记（△）。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>九、<span class=GramE>长表调查</span>户抽取后，要由乡级人口普查办公室审核确认，一经确认任何人不得随意改动，必须严格按照抽取的<span
+class=GramE>长表调查</span>住户组进行登记。</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>十、抽样工作结束后，一份《户主姓名底册》上报县级人口普查办公室备案，县级人口普查办公室要按有关规定进行检查，监督普查员是否严格按照抽取的<span
+class=GramE>长表调查</span>户进行调查，另外两份分别由<span class=GramE>长表和短表</span>普查员在登记时使用。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>十一、《户主姓名底册》上的“户编号”应同普查表上的“户编号”一致。如果在普查登记时，发现住户情况与《户主姓名底册》所列情况不一致的，应认真核查，据实登记。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（一）如发现某户经确认以后，该户为空户。在《户主姓名底册》上的备注栏注明，并将该户摸底时填写的其他内容划一条横线，该户的“户编号”作废。在填写普查表“户编号”时，其他户不再使用该户的“户编号”。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（二）如发现<span class=GramE>某长表抽中</span>户经确认后，该户不是<span
+class=GramE>参与长表抽样</span>的户，按该户的特性填写普查<span class=GramE>表短表</span>或普查<span
+class=GramE>表短表</span>（供港澳台及外籍人员使用）。同时，将变更的情况在《户主姓名底册》相应的备注栏注明，该户的“户编号”不变。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>（三）如发现某户还有其他住户，且该户为<span class=GramE>登记长表</span>的户，则该户继续<span
+class=GramE>登记长表</span>，其“户编号”不变；其他户如符合<span class=GramE>长表调查</span>户，也分别<span
+class=GramE>登记长表</span>，其他户的“户编号”为在《户主姓名底册》上最大“户编号”（除</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>600</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>以上）后顺延，并将变更的情况在《户主姓名底册》相应的备注栏注明。</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='font-size:12.0pt;line-height:200%;font-family:
+汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>附件：<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;text-indent:28.0pt;
+mso-char-indent-count:2.0;line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>第六次全国人口普查<span class=GramE>长表调查</span>户抽取方法<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>普查<span class=GramE>表长表调查</span>户抽样方法是按</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10%</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>的比例，在每个普查小区的《户主姓名底册》“户编号”中，随机等距抽取<span class=GramE>长表调查</span>住户组。每个住户组由相邻的</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户组成。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>（一）随机起点的确定<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>每个普查小区长表住户组等距抽取的随机起点在</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1-10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>内确定。每个普查区只需要确定第一个普查小区的随机起点，普查区内其后普查小区的随机起点由前一个小区的随机起点加</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，如果普查小区随机起点累加数超过</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>10</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>为</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>11</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，则该小区的随机起点为累加数减</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>10</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，其后的普查小区在</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>的基础上继续加</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，依此类推。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>第一个普查小区随机起点，由村级人口普查小组负责人确定。确定方法是取本人生日的最后</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>位数，如最后</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>位数是</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>0</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，则随机起点选</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>例</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>本人生日的最后</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>位数是</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>5</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>。普查区内第一个普查小区随机起点为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>5</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，第二个普查小区随机起点为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>6</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，第三个普查小区随机起点为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>7</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，…第六个普查小区随机起点为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>10</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，第七个普查小区随机起点为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，依次类推。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>例</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>2</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>本人生日的最后</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>位数是</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>0</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>。普查区内第一个普查小区随机起点为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，第二个普查小区随机起点为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，第三个普查小区随机起点为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>2</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，…第六个普查小区随机起点为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>5</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，依次类推。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>（二）住户组的抽取方法<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>1.</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>对于《户主姓名底册》最大“户编号”（除</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>600</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>以上）在</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>40</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>户以上的普查小区，确定随机起点后，将随机起点乘</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>得到某数值，所对应的《户主姓名底册》“户编号”为第一个抽中住户组的尾数，会同尾数相邻的前</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>3</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户，组成了第一个抽中的住户组。在住户组对应的“户编号”前做标记，划上“△”。第二个抽中的住户组为第一个抽中住户组所对应的户编号加</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>40</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>；第三个抽中住户组为第二个抽中的住户组所对应的户编号再加</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>40</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，…，依次类推。如果类推抽取的住户组所对应的“户编号”，超出普查小区《户主姓名底册》最大“户编号”三户或三户以上，则该小区长<span
+class=GramE>表调查</span>住户组抽取工作完成。该小区抽取的最后一个<span class=GramE>长表调查</span>住户组为《户主姓名底册》临近最大“户编号”的一组。如果类推抽取的住户组所对应的“户编号”超出最大“户编号”二户或一户，则该小区抽取的最后一个<span
+class=GramE>长表调查</span>住户组为《户主姓名底册》最大“户编号”的最后</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>例<span
+lang=EN-US>1</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>某普查小区确定的随机起点为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>3</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，将随机起点乘</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后得到数为</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>12</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>12</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>所对应的《户主姓名底册》“户编号”为抽中第一个住户组的尾数，会同尾数相邻的前</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>3</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>9</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>10</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>11</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>12</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>组成了第一个抽中的<span class=GramE>长表调查</span>住户组；第二个抽中的住户组为第一个抽中住户组的“户编号”各加</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>40</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>49</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>50</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>51</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>52</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>；第三个抽中住户组为第二个住户组的</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户对应的“户编号”加</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>40</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>89</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>90</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>91</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>92</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，…，依次类推。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>例<span
+lang=EN-US>2</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>某普查小区《户主姓名底册》最大“户编号”为</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>80</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，当类推到的抽取住户组的“户编号”为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>89</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>90</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>91</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>92</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，已超出了该小区《户主姓名底册》最大“户编号”</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>80</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，则该小区抽取的最后一个<span class=GramE>长表调查</span>住户组对应的“户编号”为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>49</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>50</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>51</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>52</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>例<span
+lang=EN-US>3</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>某普查小区《户主姓名底册》最大“户编号”为</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>89</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，而类推抽取住户组的户编号为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>89</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>90</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>91</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>92</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，超过了该小区《户主姓名底册》最大“户编号”</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>89</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>的</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>3</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户，则该小区抽取的最后一个<span class=GramE>长表调查</span>住户组对应的“户编号”为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>49</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>50</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>51</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>52</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>。</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪中黑简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>例<span
+lang=EN-US>4</span></span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>某普查小区《户主姓名底册》最大“户编号”为</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>90</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，而类推的抽取住户组的户编号为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>89</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>90</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>91</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>92</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，超过了该小区《户主姓名底册》最大“户编号”</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>90</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>的</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>2</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户，则该小区抽取的最后一个<span class=GramE>长表调查</span>住户组对应的“户编号”为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>87</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>88</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>89</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>90</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，是《户主姓名底册》最大“户编号”的最后</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户（见<span class=GramE>《户主姓名底册》长表住户</span>组抽取案例）。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>2.</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>对于《户主姓名底册》最大“户编号”不足</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>40</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，在</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>20</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>至</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>39</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户之间的普查小区，要保证抽取一个住户组（相邻</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户组成）。在随机起点确定后，如果随机起点乘</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后得到数对应的“户编号”超出最大“户编号”</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户至</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>3</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>户，则该小区抽取的最后一个<span class=GramE>长表调查</span>住户组为《户主姓名底册》最大“户编号”的最后</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户。如果随机起点乘</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后得到数超出最大“户编号”</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户以上，则将这一住户组数减</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>20</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>所对应《户主姓名底册》的“户编号”，为所抽中的<span
+class=GramE>长表调查</span>住户组。</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>例如普查小区《户主姓名底册》最大“户编号”为</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>23</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>。普查小区确定的随机起点为</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>9</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，随机起点乘</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>4</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后得到住户组所对应的“户编号”为</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>33</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>34</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>35</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>36</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>。超出了小区最大“户编号”</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>23</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>。将这住户组“户编号”各减</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>20</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，得到“户编号”</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>13</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>14</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>15</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>，</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>16</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>为所抽中的<span class=GramE>长表调查</span>住户组。</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>3.</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>对于《户主姓名底册》最大“户编号”不足</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>20</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，在</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>1</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>至</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>19</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户之间的普查小区，要保证抽取相邻的</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>2</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户。在随机起点确定后，将随机起点乘</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>2</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后得到的数，会同此数的前</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>户，为抽中的<span class=GramE>长表调查</span>户。如果随机起点数乘</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>2</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后得到的数超出最大“户编号”，要将此数减</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>，并将减</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>10</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>后的数会同此数的前</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>1</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户所对应的“户编号”，为抽中的<span
+class=GramE>长表调查</span>户；如果减</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>10</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>后，仍超出最大“户编号”，该小区的抽取的<span
+class=GramE>长表调查</span>户为《户主姓名底册》最大“户编号”的最后</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>2</span><span style='mso-bidi-font-size:
+10.5pt;line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>户。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>4.</span><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>对于普查小区内抽中的<span class=GramE>长表调查</span>户为大集体户，即居住在同一个房间的人数超过了</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>人，由普查员在该户中任选</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+line-height:200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;
+mso-bidi-font-weight:bold'>10</span><span style='mso-bidi-font-size:10.5pt;
+line-height:200%;font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'>人<span class=GramE>登记长表</span>，其余的人登记短表。<span
+class=GramE>长表登记</span>户仍用原“户编号”，<span class=GramE>短表登记</span>户新的“户编号”为在《户主姓名底册》上最大“户编号”（除</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>600</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>以上）后顺延。如果抽中的<span class=GramE>长表调查</span>集体户居住在同一个房间的人数不足</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'>10</span><span
+style='mso-bidi-font-size:10.5pt;line-height:200%;font-family:汉仪书宋一简;
+mso-ascii-font-family:"Times New Roman";mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'>人，该集体户所有的人登记普查<span class=GramE>表长表</span>。</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:汉仪书宋一简;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span style='mso-bidi-font-size:10.5pt;line-height:200%;
+font-family:汉仪书宋一简;mso-ascii-font-family:"Times New Roman";mso-font-kerning:
+0pt;mso-bidi-font-weight:bold'>附：<span class=GramE>《户主姓名底册》长表住户</span>组抽取案例</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:200%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:200%'><span lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:
+200%;mso-fareast-font-family:汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;line-height:125%'><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:125%;mso-fareast-font-family:
+汉仪书宋一简;mso-font-kerning:0pt;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
